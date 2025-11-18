@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wechat.png"
+  avatar           : "C:\Users\lxx\Pictures\wechat.png"
   name             : "XueDu"
   pronouns         : # example: "she/her"  
   bio              : "a code premarily learner"
